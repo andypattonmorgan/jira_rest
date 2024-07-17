@@ -1,0 +1,12 @@
+{
+  "fields": {
+    "project": {
+      "key": "TMPLFOTF"
+    },
+    "summary": "Created with API via curl",
+    "description": "Your issue description",
+    "issuetype": {
+      "name": "Story"
+    }
+  }
+}
